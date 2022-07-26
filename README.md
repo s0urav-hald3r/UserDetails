@@ -1,4 +1,4 @@
-# search_user
+# User Details
 
 A new Flutter project.
 

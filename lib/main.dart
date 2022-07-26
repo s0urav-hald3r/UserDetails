@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-        title: 'User',
+        title: 'User Details',
         theme: ThemeData(
           primarySwatch: Colors.amber,
         ),
